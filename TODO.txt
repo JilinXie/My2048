@@ -1,0 +1,3 @@
+The system in check_up and check_down
+for chekcing if the row of column has changed is wrong
+So, the generate is called each time, even when nothing is movable in the board
